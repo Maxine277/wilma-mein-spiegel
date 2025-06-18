@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Wilma – Mein Spiegel</title>
+  <style>
+    body {
+      font-family: 'Merriweather', serif, Georgia, serif;
+      background-color: #f9f6f0;
+      color: #3e3a36;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #8b6d5c;
+      color: #f9f6f0;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0 0 0.5rem 0;
+      font-weight: 700;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-style: italic;
+      font-size: 1.2rem;
+      margin: 0;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    section {
+      margin-bottom: 3rem;
+    }
+    h2 {
+      color: #8b6d5c;
+      border-bottom: 2px solid #8b6d5c;
+      padding-bottom: 0.3rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background-color: #8b6d5c;
+      color: #f9f6f0;
+      font-size: 0.9rem;
+    }
+    a {
+      color: #8b6d5c;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Lato&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header>
+    <h1>Wilma – Mein Spiegel</h1>
+    <p>Zwischen Freiheit, Leistungsdruck & dem Weg zu mir selbst.</p>
+  </header>
+  <main>
+    <section id="about-me">
+      <h2>Über mich</h2>
+      <p>
+        Ich bin [Dein Name], Masterabsolventin in Germanistik und Theologie, Pferdeliebhaberin und Traber-Ausbilderin.
+        Mein Leben ist geprägt von dem Wunsch nach Freiheit, finanzieller Unabhängigkeit und dem Drang, das perfekte Bild zu vermeiden.
+        Mit Wilma habe ich gelernt, dass wahre Stärke im Annehmen der eigenen Schwächen liegt.
+      </p>
+    </section>
+
+    <section id="wilma">
+      <h2>Wilma – mein Traber, mein Spiegel</h2>
+      <p>
+        Wilma ist keine typische Rennstute. Sie ist willensstark, sensibel und kämpft mit dem Druck, der auf ihr lastet – genau wie ich.
+        Unsere Beziehung zeigt, wie viel wir voneinander lernen können, wenn wir den Mut haben, ehrlich zu uns selbst zu sein.
+      </p>
+    </section>
+
+    <section id="help">
+      <h2>Hilfe für Problempferde</h2>
+      <p>
+        Viele Pferde zeigen Probleme, weil sie unter Druck stehen – genauso wie wir Menschen.
+        Ich biete Unterstützung für Pferdebesitzer, die ihren sensiblen Partnern helfen wollen, Ruhe zu finden und neue Wege zu gehen.
+      </p>
+    </section>
+
+    <section id="blog">
+      <h2>Blog &amp; Stories</h2>
+      <ul>
+        <li><strong>Zu viel Kopf, zu viel Drama – wie ich meinen inneren Kritiker zähme</strong></li>
+        <li><strong>Wilma und ich: Eine Geschichte von Leistungsdruck und Loslassen</strong></li>
+        <li><strong>Traberreiten als Weg zu mehr Freiheit</strong></li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Kontakt</h2>
+      <p>Ob Fragen, Tipps zu Problempferden oder einfach Austausch – ich freue mich auf deine Nachricht!</p>
+      <p>
+   
+        <strong>Instagram:</strong> <a href="https://instagram.com/wilmameinspiegel" target="_blank">@wilmameinspiegel</a>
+      </p>
+    </section>
+  </main>
+  <footer>
+    © 2025 Wilma – Mein Spiegel | Alle Rechte vorbehalten
+  </footer>
+</body>
+</html>
